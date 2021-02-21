@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.instagram.com/gunaputraw/
 - ⚡ Fun fact: I am also a basic graphic designer
 
+<img src="https://github-readme-stats.vercel.app/api?username=gunaputra">
+
